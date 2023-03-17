@@ -6,6 +6,7 @@ Introduction :
 Today’s financial markets are trading at a phenomenal rate. Their globalization connects the whole planet, and it is not uncommon to be able to make juicy deals. For several years now, some people have tended to accelerate the phenomenon even further by using super-powerful calculation algorithms, which allow them to carry out several transactions per second, known as HFT’s (High Frequency Traders).
 
 Inaccessible to traditional human and bank analysis, and operating through fiber, these methods consist of scheduling times to sell and buy one or more shares, depending on their price. The idea is to buy when the price is slow, and sell when the price is high. HFT’s, thanks to the power of computers, therefore gain a competitive advantage over « classic » traders. This can be broken down into 3 steps : 
+
 ●	Checking the order book : the order book can be seen as a history of purchases and sales made with the corresponding price for the chosen shares, this stage consists into making the algorithm « learn » this history  
 ●	Scalping : This is the step where the algorithm will define the price where it should buy, and the one where it should sell, as well as find all the trade of opportunities 
 ●	Defining a trend for the order book 
